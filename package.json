@@ -1,0 +1,22 @@
+{
+  "name": "node_status_codes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alone-wolf/node_status_codes.git"
+  },
+  "keywords": [
+    "returnData"
+  ],
+  "author": "Wolf Hugo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alone-wolf/node_status_codes/issues"
+  },
+  "homepage": "https://github.com/alone-wolf/node_status_codes#readme"
+}
